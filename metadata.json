@@ -1,0 +1,6 @@
+{
+  "name": "OpenPay Companion",
+  "description": "Companion app for the OpenPay platform to sync payment and UPI transaction SMS notifications automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
